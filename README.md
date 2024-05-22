@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL ](https://your-solution-url.com)
-- Live Site URL: [Live site URL ](https://your-live-site-url.com)
+- Solution URL: [Solutio](https://github.com/AhmNice/Sunnyside-agency-landing-page-)
+- Live Site URL: [Live site](https://your-live-site-url.com)
 
 
 
